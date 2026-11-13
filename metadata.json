@@ -1,0 +1,6 @@
+{
+  "name": "Página em Branco - Variation 2",
+  "description": "Ebook landing page: Find Out How She Thinks by Rachel Adams & Luiz Eduardo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
